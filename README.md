@@ -1,4 +1,4 @@
-# mayankpathak.github.io
+# mayankpathak4513.github.io
 
 Just created index.html file in which I added my resume, LinkedIn id and the github account.
 
